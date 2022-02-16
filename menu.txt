@@ -1,1 +1,5 @@
 Menu FrozCFood Frozen
+- Nugget
+- Bakso
+- Sosis
+- Sayuran
