@@ -1,5 +1,12 @@
 Menu FrozCFood Frozen
 - Nugget
+  * Ayam
+  * Stick
+  * Math
 - Bakso
+  * Ikan
+  * Sapi
 - Sosis
+  * Ayam
+  * Sapi
 - Sayuran
